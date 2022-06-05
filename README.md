@@ -1,0 +1,26 @@
+### Hi there, I'm Amu 👋
+
+<!--
+**akakaki/akakaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Amuuuuuuuu Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+🪄
+![vue](https://img.shields.io/badge/-Vue-35495E?logo=vuedotjs)
+![nuxt](https://img.shields.io/badge/-Nuxt-35495E?logo=nuxt)
+![astro](https://img.shields.io/badge/-Astro-35495E?logo=astro)
+![tailwind](https://img.shields.io/badge/-Tailwind-35495E?logo=tailwindcss)
+![firebase](https://img.shields.io/badge/-Firebase-35495E?logo=firebase)
+![html](https://img.shields.io/badge/-HTML5-35495E?logo=html5)
+![css](https://img.shields.io/badge/-CSS-35495E?logo=css)
+![javascript](https://img.shields.io/badge/-Javascript-35495E?logo=javascript)
